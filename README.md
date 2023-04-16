@@ -6,3 +6,6 @@ If you want to make soundfonts out these credit me for the chromatic and link th
 If your using any of these chromatics/sf2 for your covers now You have to link the chromatic collection in description somewhere
 
 Sometimes the chromatics are in chromatics.txt same with soundfonts but they are in sf2.txt
+
+
+The Element animation Villager Soundfont: https://gamebanana.com/tools/12857
